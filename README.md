@@ -1,2 +1,1 @@
-# STUBBYV2
-Niglet
+Stub Method For the boys
